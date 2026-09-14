@@ -3,4 +3,7 @@ uvicorn
 anthropic
 python-dotenv
 pytest
+pytest-asyncio
 httpx
+structlog
+tenacity==9.1.4
